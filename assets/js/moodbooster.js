@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 
-    if ($(window).width() < 790) {
+    if ($(window).width() < 481) {
         $(".background").css({ "background-image": "none", "background-color": "#D12E2D" });
     } else {
         $('#d_pc').addClass('d-none');

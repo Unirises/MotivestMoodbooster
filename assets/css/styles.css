@@ -339,3 +339,62 @@ body {
 .mungil {
     font-family: 'mungil';
 }
+
+
+/* add css */
+
+.gameplay_pd_add {
+    padding-left: 7.5%;
+}
+
+.gameplay_add_ans {
+    height: 35vh;
+    margin-top: 5%;
+}
+
+.form_game {
+    width: 500px;
+    height: 440px;
+}
+
+@media screen and (max-width: 1824px) {
+    .p2_font {
+        font-size: 18pt;
+    }
+    .btn_bottom {
+        width: 50px;
+        height: 50px;
+    }
+    .text_box_gameplay {
+        padding: 2% 1% 2% 1%;
+        outline: none;
+        font-size: 20pt;
+    }
+    .gameplay_pd_add {
+        padding-left: 3.5%;
+    }
+    .image_answer {
+        height: 27vh;
+    }
+    .gameplay_add_ans {
+        margin-top: 10%;
+    }
+    .bg_ans {
+        margin-top: 12%;
+    }
+    .congrats_font {
+        font-size: 51pt;
+        margin-top: 7%;
+    }
+    .logo_size_star {
+        width: 18%;
+    }
+    .logo_size_sm_star {
+        width: 13%;
+        transform: rotate(-20deg);
+    }
+    .logo_size_sm_star3 {
+        width: 13%;
+        transform: rotate(20deg);
+    }
+}

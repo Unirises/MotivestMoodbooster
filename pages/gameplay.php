@@ -15,7 +15,7 @@
     </div>
 
 
-    <div class="margin_gameplay text-center" style="height:35vh; margin-top:5%;">
+    <div class="margin_gameplay text-center gameplay_add_ans">
         <div class="row h-100 text-center">
             <div class="col-sm-3">
                 <div class="answer_bg">
@@ -43,7 +43,7 @@
 
     <div class="container-fluid ml-4 position-absolute" style="margin-top: 5%; bottom:1.5%;">
         <div class="row">
-            <div class="col-lg-4" style="padding-left: 7.5%;">
+            <div class="col-lg-4 gameplay_pd_add">
                 <img src="assets/img/btn/offmusic.png" class="btn_bottom" id="gameplay_music">
                 <img src="assets/img/btn/home.png" class="btn_bottom ml-2" id="gameplay_homeBtn">
                 <img src="assets/img/btn/next.png" class="btn_bottom ml-2" id="gameplay_next_skip">
