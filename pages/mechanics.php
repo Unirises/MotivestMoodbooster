@@ -11,7 +11,7 @@
 
     <div class="col-sm-12 text-center">
 
-        <label class="mungil first_font">Celebrate the Life you Choose and have the Best Mood with MOTIVEST!</label><br>
+        <label class="mungil first_font">Celebrate the Life you Choose and have the Best Mood with FLUOXETINE MOTIVEST!</label><br>
         <label class="mungil second_font">
             Boost your mood with the epitome of celebrations,<br>
             Filipino Festivals.
